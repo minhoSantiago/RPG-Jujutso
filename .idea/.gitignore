@@ -1,3 +1,28 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# === Build / Output ===
+/out/
+/build/
+/target/
+
+# === IDEs ===
+.vscode/
+.idea/
+*.iml
+
+# === Sistema operacional ===
+.DS_Store
+Thumbs.db
+
+# === Logs e temp ===
+*.log
+*.tmp
+*.swp
+
+# === Pacotes e dependências ===
+node_modules/
+.env
+*.class
+
+# === Outros arquivos temporários ===
+*.jar
+*.war
+*.ear
